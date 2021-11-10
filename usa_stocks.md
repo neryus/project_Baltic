@@ -1,8 +1,19 @@
+## Investment decisions
+
+Data catched at time of investement
+
+|Symbol|Company name|Buy price|Buy date|Target price|Target date|P/E ratio|Annualized dividend (2021)|Dividend yield|Dividend pay|Current price|Current dividend yield|Motley Fool|Why?|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|GSK|GlaxoSmithKline PLC|$43.25|09-11-21|$47|12 months|18.11|$2.064|4.76%|Q|--|--|[Link](https://www.fool.com/quote/nyse/gsk/?ftm_campaign=site_search&ftm_veh=free_search&ftm_mes=&ftm_derby=gsk&ftm_heat=referrer)|Dividend grow for very long time|
+|SBS|Companhia de Saneamento Basico|$6.974|09-11-21|$12|12 months|9.81|$0.06|0.93%|Y|--|--|[Link](https://www.fool.com/quote/nyse/sbs/?ftm_campaign=site_search&ftm_veh=free_search&ftm_mes=&ftm_derby=sbs&ftm_heat=referrer)|Value grow in the next 12 months|
+|BSBR|Banco Santander Brasil SA|$6.36|09-11-21|$9|12 months|14.98|$0.58|9.11%|Q|--|--|[Link](https://www.fool.com/quote/nyse/bsbr/?ftm_campaign=site_search&ftm_veh=free_search&ftm_mes=&ftm_derby=bsbr&ftm_heat=referrer)|Dividend yield|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+
 ## Why invested into below stocks
 
 Portfolio breakdown
 
-| Symbol | Company |--|
+| Symbol | Company |Reason to invest|
 |--|--|--|
 | ARR | Armour Residential |--|
 | GOOGL | Alphabet (Class A) |--|
@@ -31,5 +42,7 @@ Portfolio breakdown
 | EPD | Enterprise Products Partners |--|
 | ARI | Apollo Commercial Real Estate Finance |--|
 | LTC | LTC Properties |--|
-| BSBR | Banco Santander (Brasil) |--|
-| AMZN | Amazon |--|
+| BSBR | Banco Santander (Brasil) |Long term dividend|
+| AMZN | Amazon |Value grow in very long term|
+| GSK | GlaxoSmithKline PLC |Long term dividend|
+| SBS | Companhia de Saneamento Basico |Value grow in the 12 months|
