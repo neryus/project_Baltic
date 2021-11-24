@@ -2,7 +2,7 @@
 
 Data catched at time of investement
 
-|Symbol|Company name|Buy price|Buy date|Target price|Target date|P/E ratio|Annualized dividend (2021)|Dividend yield|Dividend pay|Current price|Current dividend yield|Motley Fool|Why?|
+|Symbol|Company name|Buy price|Buy date|Target price|Target date|P/E ratio|Annualized dividend (2021)|Dividend yield|Dividend pay|Current price|Current dividend yield|Source|Why?|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |GSK|GlaxoSmithKline PLC|$43.25|09-11-21|$47|12 months|18.11|$2.064|4.76%|Q|--|--|[Link](https://www.fool.com/quote/nyse/gsk/?ftm_campaign=site_search&ftm_veh=free_search&ftm_mes=&ftm_derby=gsk&ftm_heat=referrer)|Dividend grow for very long time|
 |SBS|Companhia de Saneamento Basico|$6.974|09-11-21|$12|12 months|9.81|$0.06|0.93%|Y|--|--|[Link](https://www.fool.com/quote/nyse/sbs/?ftm_campaign=site_search&ftm_veh=free_search&ftm_mes=&ftm_derby=sbs&ftm_heat=referrer)|Value grow in the next 12 months|
@@ -17,7 +17,7 @@ Portfolio breakdown
 
 | Symbol | Company |Reason to invest|
 |--|--|--|
-| ARR | Armour Residential |--|
+| ARR | Armour Residential |Monthly dividends|
 | GOOGL | Alphabet (Class A) |--|
 | VER | Vereit |--|
 | VZ| Verizon |--|
@@ -31,7 +31,7 @@ Portfolio breakdown
 | NYCB | New York Community Bancorp |--|
 | O | Realty Income |--|
 | T | AT&T |--|
-| MPW | Medical Properties Trust |--|
+| MPW | Medical Properties Trust |Dividends|
 | NRZ | New Residential Investment |--|
 | NLY | Annaly Capital Management |--|
 | MO | Altria |--|
