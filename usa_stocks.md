@@ -4,6 +4,7 @@ Data catched at time of investement
 
 |Symbol|Company name|Buy price|Buy date|Target price|Target date|P/E ratio|Annualized dividend (2021)|Dividend yield|Dividend pay|Current price|Current dividend yield|Source|Why?|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|VICI|VICI Properties Inc.|$27|15/03/2022|$35|12 months|15|$1.44|5.3%|Q|--|--|--|Long term dividends|
 |ET|Energy Transfer|$9.28|10/01/2022|$14|12 months|5.8|$0.61|6.1%|Q|--|--|[Link](https://www.evernote.com/shard/s2/client/snv?noteGuid=e9c96e7f-171d-4f4f-b313-6aec4e666760&noteKey=8e7953ddfe0c8b260b1b78478d009fc1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs2%2Fsh%2Fe9c96e7f-171d-4f4f-b313-6aec4e666760%2F8e7953ddfe0c8b260b1b78478d009fc1&title=Seeking%2Bat%2BLeast%2B6%2525%2BDividend%2BYield%253F%2BMorgan%2BStanley%2BSuggests%2B2%2BDividend%2BStocks%2Bto%2BBuy%2B%257C%2BNasdaq)|Long term dividends|
 |EPD|Enterprise Products Partners|$21.06|15/12/2021|$28.35|12 months|11.69|$1.80|8.5%|Q|--|--|--|Long term dividends|
 |IVR|Invesco Mortgage Capital|$3.14|10/12/2021|--|--|8.38|$0.36|11.46%|Q|--|--|--|Long term dividends and value increase in 3 years|
@@ -23,6 +24,7 @@ Portfolio breakdown
 | ARR | Armour Residential |Monthly dividends|
 | GOOGL | Alphabet (Class A) |--|
 | VER | Vereit |--|
+| VICI | VICI Properties Inc. | Long term dividends |
 | VZ| Verizon |--|
 | GNL | Global Net Lease |--|
 | IRM | Iron Mountain |--|
