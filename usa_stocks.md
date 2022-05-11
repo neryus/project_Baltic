@@ -4,6 +4,7 @@ Data catched at time of investement
 
 |Symbol|Company name|Buy price|Buy date|Target price|Target date|P/E ratio|Annualized dividend|Dividend yield|Dividend pay|Current price|Current dividend yield|Source|Why?|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|BRK-B|Berkshire Hathaway Inc.|$311.81|11/05/2022|$362|12 months|8.42|--|--|--|--|--|[The Motley Fool](https://www.fool.com/quote/nyse/brk.b/)|Long term value grow|
 |NYCB|New York Community Bancorp, Inc.|$9.9|12/04/2022|$14|12 months|8.35|$0.68|6.8%|Q|--|--|[The Motley Fool](https://www.fool.com/investing/2022/02/14/want-1000-in-annual-dividend-income-invest-25000-i/)|Long term dividends|
 |VICI|VICI Properties Inc.|$27|15/03/2022|$35|12 months|15|$1.44|5.3%|Q|--|--|--|Long term dividends|
 |ET|Energy Transfer|$9.28|10/01/2022|$14|12 months|5.8|$0.61|6.1%|Q|--|--|[Link](https://www.evernote.com/shard/s2/client/snv?noteGuid=e9c96e7f-171d-4f4f-b313-6aec4e666760&noteKey=8e7953ddfe0c8b260b1b78478d009fc1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs2%2Fsh%2Fe9c96e7f-171d-4f4f-b313-6aec4e666760%2F8e7953ddfe0c8b260b1b78478d009fc1&title=Seeking%2Bat%2BLeast%2B6%2525%2BDividend%2BYield%253F%2BMorgan%2BStanley%2BSuggests%2B2%2BDividend%2BStocks%2Bto%2BBuy%2B%257C%2BNasdaq)|Long term dividends|
