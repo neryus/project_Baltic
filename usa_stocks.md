@@ -4,6 +4,7 @@ Data catched at time of investement
 
 |Symbol|Company name|Buy price|Buy date|Target price|Target date|P/E ratio|Annualized dividend|Dividend yield|Dividend pay|Current price|Current dividend yield|Source|Why?|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|EPR|EPR Properties|$50|09/06/2022|$58|12 months|30|$3.30|6.6%|M|$45|--|[The Motley Fool](https://www.fool.com/investing/stock-market/types-of-stocks/dividend-stocks/monthly-dividend-stocks/)|Long term monthly dividends|
 |BRK-B|Berkshire Hathaway Inc.|$311.81|11/05/2022|$362|12 months|8.42|--|--|--|--|--|[The Motley Fool](https://www.fool.com/quote/nyse/brk.b/)|Long term value grow|
 |NYCB|New York Community Bancorp, Inc.|$9.9|12/04/2022|$14|12 months|8.35|$0.68|6.8%|Q|--|--|[The Motley Fool](https://www.fool.com/investing/2022/02/14/want-1000-in-annual-dividend-income-invest-25000-i/)|Long term dividends|
 |VICI|VICI Properties Inc.|$27|15/03/2022|$35|12 months|15|$1.44|5.3%|Q|--|--|--|Long term dividends|
