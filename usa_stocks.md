@@ -2,8 +2,9 @@
 
 Data catched at time of investement
 
-|Symbol|Company name|Buy price|Buy date|Target price|Target date|P/E ratio|Annualized dividend|Dividend yield|Dividend pay frequency|Current price|Current dividend yield|Source|Why?|
-|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Symbol|Company name|Buy price|Buy date|Target price|Target date|P/E ratio|Annualized dividend|Dividend yield|Dividend pay frequency|Current price|Current dividend yield|Source|Why?|Nasdaq|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|MPW|Medical Properties Trust|$15|12/09/2022|$22|--|8.2|$1.16|7.8%|Q|$14.68|--|[The Motley Fool](https://www.fool.com/investing/2020/08/24/3-under-the-radar-dividend-stocks-yielding-more-th/)|Long term quarterly dividends|[Nasdaq resource](https://www.nasdaq.com/market-activity/stocks/mpw)|
 |SLG|SL Green Realty Crop|$48.90|10/08/2022|$58|12 months|11|$3.73|7.3%|M|$50|--|[The Motley Fool](https://www.nasdaq.com/articles/with-its-dividend-yield-rising-toward-8-this-beaten-down-stock-is-getting-incredibly-cheap)|Monthly dividends|
 |PBA|Pembina Pipeline|$35|13/07/2022|$41|12 months|20|$1.96|5.6%|M|$36|--|[The Motley Fool](https://www.fool.com/investing/stock-market/types-of-stocks/dividend-stocks/monthly-dividend-stocks/)|Long term monthly dividends|
 |EPR|EPR Properties|$50|09/06/2022|$58|12 months|30|$3.30|6.6%|M|$45|--|[The Motley Fool](https://www.fool.com/investing/stock-market/types-of-stocks/dividend-stocks/monthly-dividend-stocks/)|Long term monthly dividends|
