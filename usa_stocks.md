@@ -25,13 +25,13 @@ Data catched at time of investement
 
 Portfolio breakdown
 
-| Symbol | Company |Reason to invest|
-|--|--|--|
+| Symbol | Company |Reason to invest |Source |Verdict |
+|--|--|--|--|--|
 | ARR | Armour Residential |Monthly dividends|
 | GOOGL | Alphabet (Class A) |--|
 | VER | Vereit |--|
 | VICI | VICI Properties Inc. | Long term dividends |
-| VZ| Verizon |--|
+| VZ| Verizon |Long term dividends - |https://youtu.be/F457vG1Hx6U| Bad - Big debt and price of $37 is too big |
 | GNL | Global Net Lease |--|
 | IRM | Iron Mountain |--|
 | AGNC | AGNC Investment |--|
